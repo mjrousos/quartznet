@@ -28,6 +28,7 @@
         "define": [
           "BINARY_SERIALIZATION",
           "ICLONEABLE",
+          "MAIL",
           "REMOTING"
         ]
       },
@@ -44,6 +45,7 @@
         "define": [
           "BINARY_SERIALIZATION",
           "ICLONEABLE",
+          "MAIL",
           "REMOTING"
         ]
       },
@@ -55,11 +57,13 @@
         "System.Xml": "4.0.0.0"
       }
     },
-    "netstandard1.3": {
+    "netstandard1.4": {
       "compilationOptions": {
         "debugType": "portable"
       },
       "dependencies": {
+        "MailKit": "1.3.0-beta7",
+
         "NETStandard.Library": "1.0.0-rc3-*",
         "System.Collections.NonGeneric": "4.0.1-rc3-*",
         "System.Collections.Specialized": "4.0.1-rc3-*",
@@ -72,7 +76,7 @@
         "System.Xml.XmlSerializer": "4.0.11-rc3-*"
       },
       "imports": [
-        "dotnet54"
+        "dotnet55"
       ]
     }
   }
