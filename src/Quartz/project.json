@@ -32,7 +32,8 @@
           "HTTPCONTEXT",
           "ICLONEABLE",
           "MAIL",
-          "REMOTING"
+          "REMOTING",
+          "THREAD_PRIORITY"
         ]
       },
       "frameworkAssemblies": {
@@ -53,7 +54,8 @@
           "HTTPCONTEXT",
           "ICLONEABLE",
           "MAIL",
-          "REMOTING"
+          "REMOTING",
+          "THREAD_PRIORITY"
         ]
       },
       "frameworkAssemblies": {
