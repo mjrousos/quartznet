@@ -29,6 +29,7 @@
           "BINARY_SERIALIZATION",
           "CONFIGURATION",
           "DESIGNER",
+          "HTTPCONTEXT",
           "ICLONEABLE",
           "MAIL",
           "REMOTING"
@@ -49,6 +50,7 @@
           "BINARY_SERIALIZATION",
           "CONFIGURATION",
           "DESIGNER",
+          "HTTPCONTEXT",
           "ICLONEABLE",
           "MAIL",
           "REMOTING"
