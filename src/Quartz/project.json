@@ -33,6 +33,7 @@
           "ICLONEABLE",
           "MAIL",
           "REMOTING",
+          "THREAD_APARTMENTSTATE",
           "THREAD_PRIORITY"
         ]
       },
@@ -55,6 +56,7 @@
           "ICLONEABLE",
           "MAIL",
           "REMOTING",
+          "THREAD_APARTMENTSTATE",
           "THREAD_PRIORITY"
         ]
       },
