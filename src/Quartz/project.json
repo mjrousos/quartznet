@@ -23,7 +23,8 @@
     "win": { }
   },
   "resource": [
-    "**/*.config"
+    "**/*.config",
+    "**/*.properties"
   ],
   "frameworks": {
     "net45": {
