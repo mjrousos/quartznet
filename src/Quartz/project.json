@@ -20,9 +20,6 @@
       "LIBLOG_PORTABLE"
     ]
   },
-  "runtimes": {
-    "win": { }
-  },
   "resource": [
     "**/*.config",
     "**/*.properties"
